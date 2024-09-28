@@ -24,5 +24,6 @@ Previously a Project Manager at Verizon. I am motivated by technology as a tool 
     <img src="https://img.shields.io/static/v1?label=|&message=EXPRESS&color=bbb111&style=plastic&logo=express"/>
     <img src="https://img.shields.io/static/v1?label=|&message=WEBPACK&color=bbb111&style=plastic&logo=webpack"/>
     <img src="https://img.shields.io/static/v1?label=|&message=GIT&color=cbb148&style=plastic&logo=git"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=Salesforce&color=00A1E0&style=plastic&logo=Salesforce"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=SALESFORCE&color=00A1E0&style=plastic&logo=Salesforce"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=THREE.JS&color=000000&style=plastic&logo=Three.js"/>
 </p>
