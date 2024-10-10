@@ -5,7 +5,7 @@
   <a href="https://www.linkedin.com/in/tyler-pufpaff/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=LINKEDIN&color=f0ead5&style=plastic"/>
   </a>
-  <a href="" target="_blank">
+  <a href="./Tyler_Pufpaff Resume.pdf" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=RESUME&color=9de8f0&style=plastic"/>
   </a>
 </p>
