@@ -3,7 +3,10 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/tyler-pufpaff/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=LINKED-IN&color=f0ead5&style=plastic&logo=linkedin&logo-color=white"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=LINKEDIN&color=f0ead5&style=plastic"/>
+  </a>
+  <a href="" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=RESUME&color=9de8f0&style=plastic"/>
   </a>
 </p>
 
