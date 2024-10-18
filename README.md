@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/static/v1?label=|&message=RESUME&color=9de8f0&style=plastic"/>
   </a>
   <a href="https://portfoliotap.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=Website&color=f0ead5&style=plastic"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=f0ead5&style=plastic"/>
   </a>
 </p>
 
